@@ -4,4 +4,4 @@ BUILD_DIR=$1
 CACHE_DIR=$2
 
 ls $BUILD_DIR/vendor/bundle/ruby/2.3.0/gems/
-find / -name webp-ffi
+find $BUILD_DIR -name webp-ffi
