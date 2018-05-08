@@ -6,6 +6,7 @@ CACHE_DIR=$2
 ls $BUILD_DIR/vendor/bundle/ruby/2.3.0/gems/
 
 echo "---test----"
-ls /app/vendor/bundle/ruby/2.5.0/gems/
+#ls /app/vendor/bundle/ruby/2.5.0/gems/
 
+ls /app/./vendor/bundle
 whereis bundle
