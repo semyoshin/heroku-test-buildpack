@@ -3,4 +3,4 @@
 BUILD_DIR=$1
 CACHE_DIR=$2
 
-echo $BUILD_DIR/vendor/bundle/ruby/
+ls $BUILD_DIR/vendor/bundle/ruby/
