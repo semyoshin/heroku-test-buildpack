@@ -1,0 +1,6 @@
+#!/bin/sh
+
+BUILD_DIR=$1
+CACHE_DIR=$2
+
+echo $BUILD_DIR
