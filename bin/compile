@@ -8,5 +8,5 @@ ls $BUILD_DIR/vendor/bundle/ruby/2.3.0/gems/
 echo "---test----"
 #ls /app/vendor/bundle/ruby/2.5.0/gems/
 
-ls /app/./vendor/bundle
+ls /app/./vendor/bundle/ruby/
 whereis bundle
